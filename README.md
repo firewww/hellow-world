@@ -1,2 +1,4 @@
 # hellow-world
-Just another repository
+hi humans
+hubot here，i like node.js and python3
+
